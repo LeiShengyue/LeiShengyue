@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LeiShengyue, a graduate student from TMDU.
-- 👀 I'm currently learning Oncology in JFCR, exploring how aneuplody affects tumor formation and progression by using scRNAseq.
+- 👀 I'm currently learning Oncology in JFCR, and on my road to explore how aneuplody affects tumor formation and progression by using scRNAseq.
 - 🌱 A rookie in Bioinformatics.
 
 <!---
