@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LeiShengyue, a graduate student at TMDU.
-- 🧑‍🔬 I'm currently studying Oncology in the Division of Experimental Pathology at the Cancer Institute, JFCR, and exploring how aneuploidy 🧬 affects tumor formation and progression using scRNA-seq.
+- 🧑‍🔬 I'm currently studying Oncology in the Division of Experimental Pathology at the Cancer Institute, JFCR, and exploring how aneuploidy 🧬 affects tumor formation and progression using scRNA-seq and scAmplicon-seq(maybe also scDNA-seq and WGD in the future).
 - 🌱 Learning bioinformatics, particularly focusing on single-cell analysis.
 - 👉 Welcome to visit my Homapage. ➡️https://leishengyue.github.io
 
